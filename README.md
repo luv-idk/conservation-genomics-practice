@@ -1,5 +1,5 @@
 # My First Conservation Genomics Project
-
+![Phylogenetic Tree](PhyloAnalysis.png)
 ## What I Did
 I downloaded DNA barcodes (COI gene) from NCBI and built a family tree using MEGA11.
 
