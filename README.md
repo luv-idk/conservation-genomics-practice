@@ -35,5 +35,5 @@ By learning to read their DNA, we can:
 - Notepad (file merging)
 
 ## Files
-- `my_birds.fasta` — Combined DNA sequences
-- `my_first_tree.png` — Phylogenetic tree image
+- `Sequence` — Combined DNA sequences
+- `PhyloAnalysis` — Phylogenetic tree image
